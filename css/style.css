@@ -8,14 +8,21 @@ body{
 p{
     text-decoration: solid;
     text-size-adjust: 18px;
+    font-weight: bold;
+    border: 2px solid #00CC99;
 }
 
 h1{
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 text-decoration: coral;
 text-decoration-line: underline;
+text-align: center;
+font-size: 60px;
 }
 
+h2{
+text-align: center;    
+}
 h4{
     text-decoration: coral;
 }
